@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Outpatient Doctor Appointment System
 
 ## Project Overview
@@ -118,3 +119,6 @@ The **Outpatient Doctor Appointment System** is a web application designed to st
 ## License
 This project is licensed under the MIT License.
 
+=======
+# Infosys-Internship-AngularProject
+>>>>>>> 61ed903d6646e84b3d342b24e9fd456d4b8faee2
